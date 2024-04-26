@@ -1,9 +1,7 @@
 # Frontend
 /my-app/node_modules
 /build
-/.env
 
 # Backend
 /server/node_modules
 /dist
-.env
